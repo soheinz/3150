@@ -1,0 +1,35 @@
+h1, h2 {
+    color: purple;
+  }
+  
+  p {
+    color: gray;
+  }
+      
+  
+  ul {
+    border: 2px solid red;
+  }
+  
+  ol {
+    border: 2px dotted red;
+  }
+  
+  div {
+    padding: 50px;
+  }
+  
+  ol, ul {
+    padding: 10px 40px;
+    border-radius: 10px;
+  }
+      
+  h1, strong {
+    color: purple;
+  }
+  
+  em {
+    color: turquoise;
+  }
+      
+      
